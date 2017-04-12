@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  MyDemo
+//
+//  Created by MGN on 2017/4/12.
+//  Copyright © 2017年 com.mgn.test. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Masonry.h>
+
+#endif /* PrefixHeader_pch */
