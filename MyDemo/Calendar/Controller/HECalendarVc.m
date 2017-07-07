@@ -29,9 +29,9 @@ static NSString *cellID = @"HEEnterCalendarCell";
 /** 数据源 */
 @property (nonatomic, strong) NSMutableArray *listArray;
 
-/** <#description#> */
+/** 开始日期 */
 @property (nonatomic, strong) NSDate *startDate;
-/** <#description#> */
+/** 结束日期 */
 @property (nonatomic, strong) NSDate *endDate;
 
 @end
