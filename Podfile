@@ -6,4 +6,6 @@ target 'MyDemo' do
    pod 'Masonry', '~> 1.0.2'
    pod 'AFNetworking', '~> 3.1.0'
    pod 'MLeaksFinder', '~> 0.2.1'
+   pod 'UITableView+FDTemplateLayoutCell', '~> 1.6'
+   pod 'Colours', '~> 5.13.0'
 end

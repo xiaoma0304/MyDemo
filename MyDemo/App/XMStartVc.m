@@ -80,9 +80,10 @@ static NSString *cellID = @"test";
     }
     return _tableView;
 }
+
 - (NSArray *)classArray {
     if (!_classArray) {
-        _classArray = [[NSArray alloc]initWithObjects:@"XMFmdbVc", @"XMCoreDataVc", nil];
+        _classArray = [[NSArray alloc]initWithObjects:@"XMFmdbVc", @"XMCoreDataVc", @"HECalendarVc", nil];
     }
     return _classArray;
 }
