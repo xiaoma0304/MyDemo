@@ -83,7 +83,7 @@ static NSString *cellID = @"test";
 
 - (NSArray *)classArray {
     if (!_classArray) {
-        _classArray = [[NSArray alloc]initWithObjects:@"XMFmdbVc", @"XMCoreDataVc", @"HECalendarVc", nil];
+        _classArray = [[NSArray alloc]initWithObjects:@"XMFmdbVc", @"XMCoreDataVc", @"HECalendarVc", @"RegisterVc", @"testVc", nil];
     }
     return _classArray;
 }

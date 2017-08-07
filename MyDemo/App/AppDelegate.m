@@ -23,7 +23,7 @@
     UINavigationController *nVc = [[UINavigationController alloc]initWithRootViewController:startVc];
     self.window.rootViewController = nVc;
     [self.window makeKeyAndVisible];
-    
+       
     return YES;
 }
 

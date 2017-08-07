@@ -26,6 +26,10 @@
     XMTestView *testView = [[XMTestView alloc]initWithFrame:self.view.frame];
     [self.view addSubview:testView];
     
+    UITextField *text = [[UITextField alloc]initWithFrame:CGRectMake(100, 200, 100, 100)];
+    text.backgroundColor = [UIColor redColor];
+    [self.view addSubview:text];
+    
 }
 
 - (void)selfConfig {
