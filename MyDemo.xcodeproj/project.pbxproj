@@ -8,29 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		9C38902683260930504EA524 /* libPods-MyDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C01A79FC34EFA19BF723353A /* libPods-MyDemo.a */; };
-		F804D5B81F3850B9008A656A /* HECalendarDetailVc.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5861F3850B9008A656A /* HECalendarDetailVc.m */; };
-		F804D5B91F3850B9008A656A /* HECalendarVc.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5881F3850B9008A656A /* HECalendarVc.m */; };
-		F804D5BA1F3850B9008A656A /* HECalendarCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D58C1F3850B9008A656A /* HECalendarCell.m */; };
-		F804D5BB1F3850B9008A656A /* HECalendarLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D58E1F3850B9008A656A /* HECalendarLayout.m */; };
-		F804D5BC1F3850B9008A656A /* HECalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5901F3850B9008A656A /* HECalendarView.m */; };
-		F804D5BD1F3850B9008A656A /* HESectionHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5921F3850B9008A656A /* HESectionHeaderView.m */; };
-		F804D5BE1F3850B9008A656A /* rrslj.ipa in Resources */ = {isa = PBXBuildFile; fileRef = F804D5941F3850B9008A656A /* rrslj.ipa */; };
-		F804D5BF1F3850B9008A656A /* NSCalendar+GTLCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5981F3850B9008A656A /* NSCalendar+GTLCategory.m */; };
-		F804D5C01F3850B9008A656A /* HECalendarModel.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D59B1F3850B9008A656A /* HECalendarModel.m */; };
-		F804D5C11F3850B9008A656A /* HECalendarFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D59F1F3850B9008A656A /* HECalendarFooterView.m */; };
-		F804D5C21F3850B9008A656A /* HEEnterCalendarCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5A11F3850B9008A656A /* HEEnterCalendarCell.m */; };
-		F804D5C31F3850B9008A656A /* HEWeekView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5A31F3850B9008A656A /* HEWeekView.m */; };
-		F804D5C41F3850B9008A656A /* backImg_end.png in Resources */ = {isa = PBXBuildFile; fileRef = F804D5A61F3850B9008A656A /* backImg_end.png */; };
-		F804D5C51F3850B9008A656A /* backImg_start.png in Resources */ = {isa = PBXBuildFile; fileRef = F804D5A71F3850B9008A656A /* backImg_start.png */; };
-		F804D5C61F3850B9008A656A /* circle.png in Resources */ = {isa = PBXBuildFile; fileRef = F804D5A81F3850B9008A656A /* circle.png */; };
-		F804D5C71F3850B9008A656A /* circle_cir.png in Resources */ = {isa = PBXBuildFile; fileRef = F804D5A91F3850B9008A656A /* circle_cir.png */; };
-		F804D5C81F3850B9008A656A /* JTDateHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5AB1F3850B9008A656A /* JTDateHelper.m */; };
-		F804D5C91F3850B9008A656A /* ZYCalendarManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5AD1F3850B9008A656A /* ZYCalendarManager.m */; };
-		F804D5CA1F3850B9008A656A /* ZYCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5AF1F3850B9008A656A /* ZYCalendarView.m */; };
-		F804D5CB1F3850B9008A656A /* ZYDayView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5B11F3850B9008A656A /* ZYDayView.m */; };
-		F804D5CC1F3850B9008A656A /* ZYEmptyDayView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5B31F3850B9008A656A /* ZYEmptyDayView.m */; };
-		F804D5CD1F3850B9008A656A /* ZYMonthView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5B51F3850B9008A656A /* ZYMonthView.m */; };
-		F804D5CE1F3850B9008A656A /* ZYWeekView.m in Sources */ = {isa = PBXBuildFile; fileRef = F804D5B71F3850B9008A656A /* ZYWeekView.m */; };
 		F856516F1F2985230074F4FB /* ARLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = F856516E1F2985230074F4FB /* ARLabel.m */; };
 		F8A4B62A1EAEF35F00BB9168 /* XMTestView.m in Sources */ = {isa = PBXBuildFile; fileRef = F8A4B6291EAEF35F00BB9168 /* XMTestView.m */; };
 		F8C48E441E9E11C20011066E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F8C48E431E9E11C20011066E /* main.m */; };
@@ -78,47 +55,6 @@
 		88F8C796B56DC85643F149F2 /* Pods-MyDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyDemo/Pods-MyDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		B87A3A6DD4408BE1BE10E1DB /* Pods-MyDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyDemo/Pods-MyDemo.release.xcconfig"; sourceTree = "<group>"; };
 		C01A79FC34EFA19BF723353A /* libPods-MyDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F804D5851F3850B9008A656A /* HECalendarDetailVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HECalendarDetailVc.h; sourceTree = "<group>"; };
-		F804D5861F3850B9008A656A /* HECalendarDetailVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HECalendarDetailVc.m; sourceTree = "<group>"; };
-		F804D5871F3850B9008A656A /* HECalendarVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HECalendarVc.h; sourceTree = "<group>"; };
-		F804D5881F3850B9008A656A /* HECalendarVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HECalendarVc.m; sourceTree = "<group>"; };
-		F804D58B1F3850B9008A656A /* HECalendarCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HECalendarCell.h; sourceTree = "<group>"; };
-		F804D58C1F3850B9008A656A /* HECalendarCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HECalendarCell.m; sourceTree = "<group>"; };
-		F804D58D1F3850B9008A656A /* HECalendarLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HECalendarLayout.h; sourceTree = "<group>"; };
-		F804D58E1F3850B9008A656A /* HECalendarLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HECalendarLayout.m; sourceTree = "<group>"; };
-		F804D58F1F3850B9008A656A /* HECalendarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HECalendarView.h; sourceTree = "<group>"; };
-		F804D5901F3850B9008A656A /* HECalendarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HECalendarView.m; sourceTree = "<group>"; };
-		F804D5911F3850B9008A656A /* HESectionHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HESectionHeaderView.h; sourceTree = "<group>"; };
-		F804D5921F3850B9008A656A /* HESectionHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HESectionHeaderView.m; sourceTree = "<group>"; };
-		F804D5941F3850B9008A656A /* rrslj.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = rrslj.ipa; sourceTree = "<group>"; };
-		F804D5971F3850B9008A656A /* NSCalendar+GTLCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSCalendar+GTLCategory.h"; sourceTree = "<group>"; };
-		F804D5981F3850B9008A656A /* NSCalendar+GTLCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSCalendar+GTLCategory.m"; sourceTree = "<group>"; };
-		F804D59A1F3850B9008A656A /* HECalendarModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HECalendarModel.h; sourceTree = "<group>"; };
-		F804D59B1F3850B9008A656A /* HECalendarModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HECalendarModel.m; sourceTree = "<group>"; };
-		F804D59E1F3850B9008A656A /* HECalendarFooterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HECalendarFooterView.h; sourceTree = "<group>"; };
-		F804D59F1F3850B9008A656A /* HECalendarFooterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HECalendarFooterView.m; sourceTree = "<group>"; };
-		F804D5A01F3850B9008A656A /* HEEnterCalendarCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HEEnterCalendarCell.h; sourceTree = "<group>"; };
-		F804D5A11F3850B9008A656A /* HEEnterCalendarCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HEEnterCalendarCell.m; sourceTree = "<group>"; };
-		F804D5A21F3850B9008A656A /* HEWeekView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HEWeekView.h; sourceTree = "<group>"; };
-		F804D5A31F3850B9008A656A /* HEWeekView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HEWeekView.m; sourceTree = "<group>"; };
-		F804D5A61F3850B9008A656A /* backImg_end.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backImg_end.png; sourceTree = "<group>"; };
-		F804D5A71F3850B9008A656A /* backImg_start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backImg_start.png; sourceTree = "<group>"; };
-		F804D5A81F3850B9008A656A /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
-		F804D5A91F3850B9008A656A /* circle_cir.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle_cir.png; sourceTree = "<group>"; };
-		F804D5AA1F3850B9008A656A /* JTDateHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTDateHelper.h; sourceTree = "<group>"; };
-		F804D5AB1F3850B9008A656A /* JTDateHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTDateHelper.m; sourceTree = "<group>"; };
-		F804D5AC1F3850B9008A656A /* ZYCalendarManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYCalendarManager.h; sourceTree = "<group>"; };
-		F804D5AD1F3850B9008A656A /* ZYCalendarManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYCalendarManager.m; sourceTree = "<group>"; };
-		F804D5AE1F3850B9008A656A /* ZYCalendarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYCalendarView.h; sourceTree = "<group>"; };
-		F804D5AF1F3850B9008A656A /* ZYCalendarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYCalendarView.m; sourceTree = "<group>"; };
-		F804D5B01F3850B9008A656A /* ZYDayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYDayView.h; sourceTree = "<group>"; };
-		F804D5B11F3850B9008A656A /* ZYDayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYDayView.m; sourceTree = "<group>"; };
-		F804D5B21F3850B9008A656A /* ZYEmptyDayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYEmptyDayView.h; sourceTree = "<group>"; };
-		F804D5B31F3850B9008A656A /* ZYEmptyDayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYEmptyDayView.m; sourceTree = "<group>"; };
-		F804D5B41F3850B9008A656A /* ZYMonthView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYMonthView.h; sourceTree = "<group>"; };
-		F804D5B51F3850B9008A656A /* ZYMonthView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYMonthView.m; sourceTree = "<group>"; };
-		F804D5B61F3850B9008A656A /* ZYWeekView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYWeekView.h; sourceTree = "<group>"; };
-		F804D5B71F3850B9008A656A /* ZYWeekView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYWeekView.m; sourceTree = "<group>"; };
 		F856516D1F2985230074F4FB /* ARLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARLabel.h; sourceTree = "<group>"; };
 		F856516E1F2985230074F4FB /* ARLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARLabel.m; sourceTree = "<group>"; };
 		F8A4B6281EAEF35F00BB9168 /* XMTestView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMTestView.h; sourceTree = "<group>"; };
@@ -210,150 +146,6 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		F804D5821F3850B9008A656A /* Calendar */ = {
-			isa = PBXGroup;
-			children = (
-				F804D5831F3850B9008A656A /* CalendarTools */,
-				F804D5841F3850B9008A656A /* Controller */,
-				F804D5891F3850B9008A656A /* Lib */,
-				F804D5991F3850B9008A656A /* Model */,
-				F804D59C1F3850B9008A656A /* View */,
-				F804D5A41F3850B9008A656A /* ZYCalendarView */,
-			);
-			path = Calendar;
-			sourceTree = "<group>";
-		};
-		F804D5831F3850B9008A656A /* CalendarTools */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = CalendarTools;
-			sourceTree = "<group>";
-		};
-		F804D5841F3850B9008A656A /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				F804D5851F3850B9008A656A /* HECalendarDetailVc.h */,
-				F804D5861F3850B9008A656A /* HECalendarDetailVc.m */,
-				F804D5871F3850B9008A656A /* HECalendarVc.h */,
-				F804D5881F3850B9008A656A /* HECalendarVc.m */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		F804D5891F3850B9008A656A /* Lib */ = {
-			isa = PBXGroup;
-			children = (
-				F804D58A1F3850B9008A656A /* Calendar */,
-				F804D5951F3850B9008A656A /* CalendarTools */,
-			);
-			path = Lib;
-			sourceTree = "<group>";
-		};
-		F804D58A1F3850B9008A656A /* Calendar */ = {
-			isa = PBXGroup;
-			children = (
-				F804D58B1F3850B9008A656A /* HECalendarCell.h */,
-				F804D58C1F3850B9008A656A /* HECalendarCell.m */,
-				F804D58D1F3850B9008A656A /* HECalendarLayout.h */,
-				F804D58E1F3850B9008A656A /* HECalendarLayout.m */,
-				F804D58F1F3850B9008A656A /* HECalendarView.h */,
-				F804D5901F3850B9008A656A /* HECalendarView.m */,
-				F804D5911F3850B9008A656A /* HESectionHeaderView.h */,
-				F804D5921F3850B9008A656A /* HESectionHeaderView.m */,
-				F804D5931F3850B9008A656A /* rrslj 2017-07-03 17-27-38 */,
-			);
-			path = Calendar;
-			sourceTree = "<group>";
-		};
-		F804D5931F3850B9008A656A /* rrslj 2017-07-03 17-27-38 */ = {
-			isa = PBXGroup;
-			children = (
-				F804D5941F3850B9008A656A /* rrslj.ipa */,
-			);
-			path = "rrslj 2017-07-03 17-27-38";
-			sourceTree = "<group>";
-		};
-		F804D5951F3850B9008A656A /* CalendarTools */ = {
-			isa = PBXGroup;
-			children = (
-				F804D5961F3850B9008A656A /* GTLCalendarCategory */,
-			);
-			path = CalendarTools;
-			sourceTree = "<group>";
-		};
-		F804D5961F3850B9008A656A /* GTLCalendarCategory */ = {
-			isa = PBXGroup;
-			children = (
-				F804D5971F3850B9008A656A /* NSCalendar+GTLCategory.h */,
-				F804D5981F3850B9008A656A /* NSCalendar+GTLCategory.m */,
-			);
-			path = GTLCalendarCategory;
-			sourceTree = "<group>";
-		};
-		F804D5991F3850B9008A656A /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				F804D59A1F3850B9008A656A /* HECalendarModel.h */,
-				F804D59B1F3850B9008A656A /* HECalendarModel.m */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		F804D59C1F3850B9008A656A /* View */ = {
-			isa = PBXGroup;
-			children = (
-				F804D59D1F3850B9008A656A /* Calendar */,
-				F804D59E1F3850B9008A656A /* HECalendarFooterView.h */,
-				F804D59F1F3850B9008A656A /* HECalendarFooterView.m */,
-				F804D5A01F3850B9008A656A /* HEEnterCalendarCell.h */,
-				F804D5A11F3850B9008A656A /* HEEnterCalendarCell.m */,
-				F804D5A21F3850B9008A656A /* HEWeekView.h */,
-				F804D5A31F3850B9008A656A /* HEWeekView.m */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		F804D59D1F3850B9008A656A /* Calendar */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Calendar;
-			sourceTree = "<group>";
-		};
-		F804D5A41F3850B9008A656A /* ZYCalendarView */ = {
-			isa = PBXGroup;
-			children = (
-				F804D5A51F3850B9008A656A /* Images */,
-				F804D5AA1F3850B9008A656A /* JTDateHelper.h */,
-				F804D5AB1F3850B9008A656A /* JTDateHelper.m */,
-				F804D5AC1F3850B9008A656A /* ZYCalendarManager.h */,
-				F804D5AD1F3850B9008A656A /* ZYCalendarManager.m */,
-				F804D5AE1F3850B9008A656A /* ZYCalendarView.h */,
-				F804D5AF1F3850B9008A656A /* ZYCalendarView.m */,
-				F804D5B01F3850B9008A656A /* ZYDayView.h */,
-				F804D5B11F3850B9008A656A /* ZYDayView.m */,
-				F804D5B21F3850B9008A656A /* ZYEmptyDayView.h */,
-				F804D5B31F3850B9008A656A /* ZYEmptyDayView.m */,
-				F804D5B41F3850B9008A656A /* ZYMonthView.h */,
-				F804D5B51F3850B9008A656A /* ZYMonthView.m */,
-				F804D5B61F3850B9008A656A /* ZYWeekView.h */,
-				F804D5B71F3850B9008A656A /* ZYWeekView.m */,
-			);
-			path = ZYCalendarView;
-			sourceTree = "<group>";
-		};
-		F804D5A51F3850B9008A656A /* Images */ = {
-			isa = PBXGroup;
-			children = (
-				F804D5A61F3850B9008A656A /* backImg_end.png */,
-				F804D5A71F3850B9008A656A /* backImg_start.png */,
-				F804D5A81F3850B9008A656A /* circle.png */,
-				F804D5A91F3850B9008A656A /* circle_cir.png */,
-			);
-			path = Images;
-			sourceTree = "<group>";
-		};
 		F8C48E361E9E11C20011066E = {
 			isa = PBXGroup;
 			children = (
@@ -377,7 +169,6 @@
 		F8C48E411E9E11C20011066E /* MyDemo */ = {
 			isa = PBXGroup;
 			children = (
-				F804D5821F3850B9008A656A /* Calendar */,
 				F8D88BE21F1F2D4700ACE7FF /* Register */,
 				F8F678341EA4B9C400D06A30 /* AF */,
 				F8C48E7C1E9E1AD30011066E /* App */,
@@ -547,8 +338,6 @@
 				F8C48E3B1E9E11C20011066E /* Sources */,
 				F8C48E3C1E9E11C20011066E /* Frameworks */,
 				F8C48E3D1E9E11C20011066E /* Resources */,
-				557DF1CEA0EB29DC3A1682CB /* [CP] Embed Pods Frameworks */,
-				5CD4FAECBDF40984CBF2440F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -629,6 +418,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -659,13 +449,8 @@
 				F8C48E8C1E9E1C330011066E /* XMCoreDataVc.xib in Resources */,
 				F8C48E521E9E11C20011066E /* LaunchScreen.storyboard in Resources */,
 				F8F6783C1EA4B9F400D06A30 /* XMAFNetVc.xib in Resources */,
-				F804D5C71F3850B9008A656A /* circle_cir.png in Resources */,
-				F804D5C61F3850B9008A656A /* circle.png in Resources */,
 				F8D88C181F204FB100ACE7FF /* express.plist in Resources */,
-				F804D5C51F3850B9008A656A /* backImg_start.png in Resources */,
 				F8C48E4F1E9E11C20011066E /* Assets.xcassets in Resources */,
-				F804D5BE1F3850B9008A656A /* rrslj.ipa in Resources */,
-				F804D5C41F3850B9008A656A /* backImg_end.png in Resources */,
 				F8D88BEC1F1F355300ACE7FF /* dddd.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -687,49 +472,22 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		557DF1CEA0EB29DC3A1682CB /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyDemo/Pods-MyDemo-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		5BF7857AB57B68B3BE723325 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MyDemo-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		5CD4FAECBDF40984CBF2440F /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyDemo/Pods-MyDemo-resources.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -739,38 +497,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F804D5BF1F3850B9008A656A /* NSCalendar+GTLCategory.m in Sources */,
-				F804D5CA1F3850B9008A656A /* ZYCalendarView.m in Sources */,
-				F804D5BA1F3850B9008A656A /* HECalendarCell.m in Sources */,
 				F8D88BF61F1F421F00ACE7FF /* UIButton+TimerButton.m in Sources */,
-				F804D5C31F3850B9008A656A /* HEWeekView.m in Sources */,
-				F804D5C21F3850B9008A656A /* HEEnterCalendarCell.m in Sources */,
-				F804D5B91F3850B9008A656A /* HECalendarVc.m in Sources */,
 				F8C48E861E9E1B6A0011066E /* XMFmdbVc.m in Sources */,
-				F804D5B81F3850B9008A656A /* HECalendarDetailVc.m in Sources */,
-				F804D5BD1F3850B9008A656A /* HESectionHeaderView.m in Sources */,
-				F804D5C81F3850B9008A656A /* JTDateHelper.m in Sources */,
 				F8C48E821E9E1AD30011066E /* XMStartVc.m in Sources */,
 				F8D88BEF1F1F376200ACE7FF /* testVc.m in Sources */,
 				F8C5051A1F283FA800253AF9 /* XMTestView1.m in Sources */,
-				F804D5C11F3850B9008A656A /* HECalendarFooterView.m in Sources */,
 				F8D88BEA1F1F2D7F00ACE7FF /* RegisterVc.m in Sources */,
-				F804D5CB1F3850B9008A656A /* ZYDayView.m in Sources */,
-				F804D5BC1F3850B9008A656A /* HECalendarView.m in Sources */,
-				F804D5BB1F3850B9008A656A /* HECalendarLayout.m in Sources */,
 				F8F6783B1EA4B9F400D06A30 /* XMAFNetVc.m in Sources */,
 				F8C48E8B1E9E1C330011066E /* XMCoreDataVc.m in Sources */,
 				F8C48E8F1E9E2B6F0011066E /* XMFmdbManger.m in Sources */,
 				F8A4B62A1EAEF35F00BB9168 /* XMTestView.m in Sources */,
 				F8C48E811E9E1AD30011066E /* AppDelegate.m in Sources */,
 				F8F678371EA4B9D200D06A30 /* XMNetworking.m in Sources */,
-				F804D5CE1F3850B9008A656A /* ZYWeekView.m in Sources */,
 				F8C505161F283DBC00253AF9 /* UIView+RectCorner.m in Sources */,
-				F804D5C01F3850B9008A656A /* HECalendarModel.m in Sources */,
-				F804D5CC1F3850B9008A656A /* ZYEmptyDayView.m in Sources */,
-				F804D5CD1F3850B9008A656A /* ZYMonthView.m in Sources */,
 				F856516F1F2985230074F4FB /* ARLabel.m in Sources */,
-				F804D5C91F3850B9008A656A /* ZYCalendarManager.m in Sources */,
 				F8C48E441E9E11C20011066E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
